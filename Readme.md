@@ -1,8 +1,8 @@
 
 # TP DevOps
 
-Vous allez faire un TP DevOps
-Test
+Vous allez faire un TP DevOps (Test)
+
 # I- Sujet
 
 ## GIT 
