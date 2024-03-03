@@ -14,6 +14,8 @@ pipeline {
                 mvn -v
                 java -version
                 javac -version
+                echo $JAVA_HOME
+                which java
                 '''
             }
         }
