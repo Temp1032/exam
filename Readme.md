@@ -22,12 +22,12 @@ Creation du token pour Jenkins
 
 ![image](https://github.com/Temp1032/exam/assets/146944169/df15dc65-88b1-4eb0-be3b-61869967a7ad)
 
-Ajout du token dans les credentials de Jenkins apre recuperation de l'adresse IP de SonarQube
+Ajout du token dans les credentials de Jenkins 
 
 ![image](https://github.com/Temp1032/exam/assets/146944169/c4b0e3b9-2533-470e-900c-5ca1ae3639db)
 
 
-
+On recupere l'adresse IP de SonarQube et on ajoute ces parametres dans la configuration de Jenkins
 
 ![image](https://github.com/Temp1032/exam/assets/146944169/50311165-3572-434c-a9cf-7d4b5caa48fc)
 
