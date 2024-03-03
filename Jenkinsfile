@@ -23,6 +23,7 @@ pipeline {
             steps {
                 echo "Testing.."
                 sh '''
+                JAVA_HOME=/opt/java/openjdk/bin/java
                 mvn compile
                 '''
             }
