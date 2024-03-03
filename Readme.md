@@ -9,6 +9,11 @@ Mon fichier Jenkins :
 
 ![image](https://github.com/Temp1032/exam/assets/146944169/2c92e58b-7888-4098-be13-a053c8209b17)
 
+Configuration Jenkins : 
+
+![image](https://github.com/Temp1032/exam/assets/146944169/90e0a852-93e9-4d34-9372-22d490a32d35)
+
+![image](https://github.com/Temp1032/exam/assets/146944169/2c6766c8-2e79-432d-b87b-e7a85a4c191b)
 
 Je n'arrete pas de tomber sur l'erreur suivante a cause du fichier pom.xml : 
 
