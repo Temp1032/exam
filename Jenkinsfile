@@ -12,6 +12,7 @@ pipeline {
                 whoami
                 ls
                 mvn -v
+                java -version
                 '''
             }
         }
