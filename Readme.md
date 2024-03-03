@@ -24,6 +24,8 @@ Creation du token pour Jenkins
 
 Ajout du token dans les credentials de Jenkins apre recuperation de l'adresse IP de SonarQube
 
+![image](https://github.com/Temp1032/exam/assets/146944169/c4b0e3b9-2533-470e-900c-5ca1ae3639db)
+
 ![image](https://github.com/Temp1032/exam/assets/146944169/463fb5df-1fe1-40c5-a4d2-e7c6ff7d4694)
 
 
