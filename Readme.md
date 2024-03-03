@@ -32,7 +32,11 @@ Ajout du token dans les credentials de Jenkins
 
 
 # Lien utile 
-Git source : https://github.com/bart120/devopsb3/tree/dev
-Deploiment de Jenkins : https://www.jenkins.io/doc/tutorials/build-a-java-app-with-maven/
-Solution au probleme d'authentification vers Github a partir de Linux (generation et utilisation d'un token Github) : https://dev.to/shafia/support-for-password-authentication-was-removed-please-use-a-personal-access-token-instead-4nbk
-Introduction au base du language Java : https://www.youtube.com/watch?v=drQK8ciCAjY
+
+ - Git source : https://github.com/bart120/devopsb3/tree/dev
+
+ - Deploiment de Jenkins : https://www.jenkins.io/doc/tutorials/build-a-java-app-with-maven/
+
+ - Solution au probleme d'authentification vers Github a partir de Linux (generation et utilisation d'un token Github) : https://dev.to/shafia/support-for-password-authentication-was-removed-please-use-a-personal-access-token-instead-4nbk
+
+ - Introduction au base du language Java : https://www.youtube.com/watch?v=drQK8ciCAjY
