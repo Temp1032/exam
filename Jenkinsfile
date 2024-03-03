@@ -12,11 +12,6 @@ pipeline {
                 whoami
                 ls
                 mvn -v
-                java -version
-                javac -version
-                echo $JAVA_HOME
-                which java
-                readlink -f /opt/java/openjdk/bin/java
                 '''
             }
         }
@@ -24,7 +19,6 @@ pipeline {
             steps {
                 echo "Testing.."
                 sh '''
-                JAVA_HOME=/opt/java/openjdk/bin/java
                 mvn compile
                 '''
             }
