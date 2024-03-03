@@ -24,6 +24,8 @@ Creation du token pour Jenkins
 
 Ajout du token dans les credentials de Jenkins
 
+![image](https://github.com/Temp1032/exam/assets/146944169/463fb5df-1fe1-40c5-a4d2-e7c6ff7d4694)
+
 
 
 ![image](https://github.com/Temp1032/exam/assets/146944169/50311165-3572-434c-a9cf-7d4b5caa48fc)
