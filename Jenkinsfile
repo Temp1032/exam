@@ -19,7 +19,7 @@ pipeline {
             steps {
                 echo "Testing.."
                 sh '''
-                mvn compile --help
+                mvn compile
                 '''
             }
         }
