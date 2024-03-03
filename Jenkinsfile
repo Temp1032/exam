@@ -16,6 +16,7 @@ pipeline {
                 javac -version
                 echo $JAVA_HOME
                 which java
+                readlink -f /opt/java/openjdk/bin/java
                 '''
             }
         }
