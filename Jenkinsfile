@@ -27,8 +27,9 @@ pipeline {
             steps {
                 echo 'Deliver....'
                 sh '''
-                mvn javadoc:javadoc
+                mvn -Dmaven.javadoc.skip=true verify
                 '''
+                // mvn javadoc:javadoc
             }
         }
     }
