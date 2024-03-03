@@ -18,4 +18,12 @@ Meme en changeant le PATH de Java dans l'environement de variable pour Maven
 
 # SonarQube 
 
+Creation du token pour Jenkins
+
+![image](https://github.com/Temp1032/exam/assets/146944169/df15dc65-88b1-4eb0-be3b-61869967a7ad)
+
+Ajout du token dans les credentials de Jenkins
+
+
+
 ![image](https://github.com/Temp1032/exam/assets/146944169/50311165-3572-434c-a9cf-7d4b5caa48fc)
