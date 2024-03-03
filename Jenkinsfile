@@ -18,11 +18,17 @@ pipeline {
         stage('Test') {
             steps {
                 echo "Testing.."
+                sh '''
+                mvn compile
+                '''
             }
         }
         stage('Deliver') {
             steps {
                 echo 'Deliver....'
+                sh '''
+                mvn javadoc:javadoc
+                '''
             }
         }
     }
