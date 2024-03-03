@@ -13,6 +13,7 @@ pipeline {
                 ls
                 mvn -v
                 java -version
+                javac -version
                 '''
             }
         }
